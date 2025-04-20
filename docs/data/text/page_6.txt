@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+Executive Summary
+Artificial intelligence (AI) technologies have significant potential to transform society and
+people’s lives – from commerce and health to transportation and cybersecurity to the envi-
+ronment and our planet. AI technologies can drive inclusive economic growth and support
+scientific advancements that improve the conditions of our world. AI technologies, how-
+ever,alsoposerisksthatcannegativelyimpactindividuals,groups,organizations,commu-
+nities,society,theenvironment,andtheplanet. Likerisksforothertypesoftechnology,AI
+riskscanemergeinavarietyofwaysandcanbecharacterizedaslong-orshort-term,high-
+orlow-probability,systemicorlocalized,andhigh-orlow-impact.
+The AI RMF refers to an AI system as an engineered or machine-based system that
+can,foragivensetofobjectives,generateoutputssuchaspredictions,recommenda-
+tions,ordecisionsinfluencingrealorvirtualenvironments. AIsystemsaredesigned
+tooperatewithvaryinglevelsofautonomy(Adaptedfrom: OECDRecommendation
+onAI:2019; ISO/IEC 22989:2022).
+Whiletherearemyriadstandardsandbestpracticestohelporganizationsmitigatetherisks
+of traditional software or information-based systems, the risks posed by AI systems are in
+manywaysunique(SeeAppendixB).AIsystems,forexample,maybetrainedondatathat
+canchangeovertime,sometimessignificantlyandunexpectedly,affectingsystemfunction-
+ality and trustworthiness in ways that are hard to understand. AI systems and the contexts
+inwhichtheyaredeployedarefrequentlycomplex,makingitdifficulttodetectandrespond
+to failures when they occur. AI systems are inherently socio-technical in nature, meaning
+they are influenced by societal dynamics and human behavior. AI risks – and benefits –
+can emerge from the interplay of technical aspects combined with societal factors related
+to how a system is used, its interactions with other AI systems, who operates it, and the
+socialcontextinwhichitisdeployed.
+TheserisksmakeAIauniquelychallengingtechnologytodeployandutilizebothfororga-
+nizations and within society. Without proper controls, AI systems can amplify, perpetuate,
+or exacerbate inequitable or undesirable outcomes for individuals and communities. With
+propercontrols,AIsystemscanmitigateandmanageinequitableoutcomes.
+AI risk management is a key component of responsible development and use of AI sys-
+tems. Responsible AI practices can help align the decisions about AI system design, de-
+velopment, and uses with intended aim and values. Core concepts in responsible AI em-
+phasizehumancentricity,socialresponsibility,andsustainability. AIriskmanagementcan
+drive responsible uses and practices by prompting organizations and their internal teams
+who design, develop, and deploy AI to think more critically about context and potential
+or unexpected negative and positive impacts. Understanding and managing the risks of AI
+systemswillhelptoenhancetrustworthiness,andinturn,cultivatepublictrust.
+Page1

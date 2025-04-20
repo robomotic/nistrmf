@@ -1,0 +1,29 @@
+NISTAI100-1 AIRMF1.0
+signed, developed, and/or deployed. Key AI actors responsible for AI governance include
+organizational management, senior leadership, and the Board of Directors. These actors
+are parties that are concerned with the impact and sustainability of the organization as a
+whole.
+AdditionalAIActors
+Third-party entities include providers, developers, vendors, and evaluators of data, al-
+gorithms, models, and/or systems and related services for another organization or the or-
+ganization’s customers or clients. Third-party entities are responsible for AI design and
+developmenttasks,inwholeorinpart. Bydefinition,theyareexternaltothedesign,devel-
+opment, or deployment team of the organization that acquires its technologies or services.
+The technologies acquired from third-party entities may be complex or opaque, and risk
+tolerancesmaynotalignwiththedeployingoroperatingorganization.
+End users of an AI system are the individuals or groups that use the system for specific
+purposes. TheseindividualsorgroupsinteractwithanAIsysteminaspecificcontext. End
+userscanrangeincompetencyfromAIexpertstofirst-timetechnologyendusers.
+Affected individuals/communities encompass all individuals, groups, communities, or
+organizationsdirectlyorindirectlyaffectedbyAIsystemsordecisionsbasedontheoutput
+of AI systems. These individuals do not necessarily interact with the deployed system or
+application.
+Other AI actors may provide formal or quasi-formal norms or guidance for specifying
+and managing AI risks. They can include trade associations, standards developing or-
+ganizations, advocacy groups, researchers, environmental groups, and civil society
+organizations.
+The general public is most likely to directly experience positive and negative impacts of
+AItechnologies. TheymayprovidethemotivationforactionstakenbytheAIactors. This
+group can include individuals, communities, and consumers associated with the context in
+whichanAIsystemisdevelopedordeployed.
+Page37

@@ -1,0 +1,536 @@
+{
+  "pages": [
+    {
+      "number": 1,
+      "image_file": "images/page_1.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 2,
+      "image_file": "images/page_2.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 3,
+      "image_file": "images/page_3.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 4,
+      "image_file": "images/page_4.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 5,
+      "image_file": "images/page_5.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 6,
+      "image_file": "images/page_6.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 7,
+      "image_file": "images/page_7.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 8,
+      "image_file": "images/page_8.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 9,
+      "image_file": "images/page_9.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 10,
+      "image_file": "images/page_10.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 11,
+      "image_file": "images/page_11.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 12,
+      "image_file": "images/page_12.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 13,
+      "image_file": "images/page_13.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 14,
+      "image_file": "images/page_14.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 15,
+      "image_file": "images/page_15.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 16,
+      "image_file": "images/page_16.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 17,
+      "image_file": "images/page_17.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 18,
+      "image_file": "images/page_18.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 19,
+      "image_file": "images/page_19.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 20,
+      "image_file": "images/page_20.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 21,
+      "image_file": "images/page_21.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 22,
+      "image_file": "images/page_22.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 23,
+      "image_file": "images/page_23.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 24,
+      "image_file": "images/page_24.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 25,
+      "image_file": "images/page_25.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 26,
+      "image_file": "images/page_26.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 27,
+      "image_file": "images/page_27.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 28,
+      "image_file": "images/page_28.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 29,
+      "image_file": "images/page_29.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 30,
+      "image_file": "images/page_30.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 31,
+      "image_file": "images/page_31.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 32,
+      "image_file": "images/page_32.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 33,
+      "image_file": "images/page_33.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 34,
+      "image_file": "images/page_34.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 35,
+      "image_file": "images/page_35.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 36,
+      "image_file": "images/page_36.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 37,
+      "image_file": "images/page_37.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 38,
+      "image_file": "images/page_38.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 39,
+      "image_file": "images/page_39.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 40,
+      "image_file": "images/page_40.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 41,
+      "image_file": "images/page_41.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 42,
+      "image_file": "images/page_42.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 43,
+      "image_file": "images/page_43.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 44,
+      "image_file": "images/page_44.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 45,
+      "image_file": "images/page_45.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 46,
+      "image_file": "images/page_46.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 47,
+      "image_file": "images/page_47.png",
+      "width": 2550,
+      "height": 3301
+    },
+    {
+      "number": 48,
+      "image_file": "images/page_48.png",
+      "width": 2550,
+      "height": 3301
+    }
+  ],
+  "images": [],
+  "text_sections": [
+    {
+      "page": 1,
+      "file": "text/page_1.txt",
+      "char_count": 76
+    },
+    {
+      "page": 2,
+      "file": "text/page_2.txt",
+      "char_count": 344
+    },
+    {
+      "page": 3,
+      "file": "text/page_3.txt",
+      "char_count": 1363
+    },
+    {
+      "page": 4,
+      "file": "text/page_4.txt",
+      "char_count": 1133
+    },
+    {
+      "page": 5,
+      "file": "text/page_5.txt",
+      "char_count": 1585
+    },
+    {
+      "page": 6,
+      "file": "text/page_6.txt",
+      "char_count": 2921
+    },
+    {
+      "page": 7,
+      "file": "text/page_7.txt",
+      "char_count": 3025
+    },
+    {
+      "page": 8,
+      "file": "text/page_8.txt",
+      "char_count": 1808
+    },
+    {
+      "page": 9,
+      "file": "text/page_9.txt",
+      "char_count": 2600
+    },
+    {
+      "page": 10,
+      "file": "text/page_10.txt",
+      "char_count": 1740
+    },
+    {
+      "page": 11,
+      "file": "text/page_11.txt",
+      "char_count": 2640
+    },
+    {
+      "page": 12,
+      "file": "text/page_12.txt",
+      "char_count": 2843
+    },
+    {
+      "page": 13,
+      "file": "text/page_13.txt",
+      "char_count": 2920
+    },
+    {
+      "page": 14,
+      "file": "text/page_14.txt",
+      "char_count": 2901
+    },
+    {
+      "page": 15,
+      "file": "text/page_15.txt",
+      "char_count": 1469
+    },
+    {
+      "page": 16,
+      "file": "text/page_16.txt",
+      "char_count": 351
+    },
+    {
+      "page": 17,
+      "file": "text/page_17.txt",
+      "char_count": 2504
+    },
+    {
+      "page": 18,
+      "file": "text/page_18.txt",
+      "char_count": 2855
+    },
+    {
+      "page": 19,
+      "file": "text/page_19.txt",
+      "char_count": 2657
+    },
+    {
+      "page": 20,
+      "file": "text/page_20.txt",
+      "char_count": 2982
+    },
+    {
+      "page": 21,
+      "file": "text/page_21.txt",
+      "char_count": 2786
+    },
+    {
+      "page": 22,
+      "file": "text/page_22.txt",
+      "char_count": 2696
+    },
+    {
+      "page": 23,
+      "file": "text/page_23.txt",
+      "char_count": 1604
+    },
+    {
+      "page": 24,
+      "file": "text/page_24.txt",
+      "char_count": 1794
+    },
+    {
+      "page": 25,
+      "file": "text/page_25.txt",
+      "char_count": 1189
+    },
+    {
+      "page": 26,
+      "file": "text/page_26.txt",
+      "char_count": 2580
+    },
+    {
+      "page": 27,
+      "file": "text/page_27.txt",
+      "char_count": 2335
+    },
+    {
+      "page": 28,
+      "file": "text/page_28.txt",
+      "char_count": 2218
+    },
+    {
+      "page": 29,
+      "file": "text/page_29.txt",
+      "char_count": 2380
+    },
+    {
+      "page": 30,
+      "file": "text/page_30.txt",
+      "char_count": 2649
+    },
+    {
+      "page": 31,
+      "file": "text/page_31.txt",
+      "char_count": 1979
+    },
+    {
+      "page": 32,
+      "file": "text/page_32.txt",
+      "char_count": 2219
+    },
+    {
+      "page": 33,
+      "file": "text/page_33.txt",
+      "char_count": 2599
+    },
+    {
+      "page": 34,
+      "file": "text/page_34.txt",
+      "char_count": 1991
+    },
+    {
+      "page": 35,
+      "file": "text/page_35.txt",
+      "char_count": 1978
+    },
+    {
+      "page": 36,
+      "file": "text/page_36.txt",
+      "char_count": 2289
+    },
+    {
+      "page": 37,
+      "file": "text/page_37.txt",
+      "char_count": 2120
+    },
+    {
+      "page": 38,
+      "file": "text/page_38.txt",
+      "char_count": 2551
+    },
+    {
+      "page": 39,
+      "file": "text/page_39.txt",
+      "char_count": 431
+    },
+    {
+      "page": 40,
+      "file": "text/page_40.txt",
+      "char_count": 2997
+    },
+    {
+      "page": 41,
+      "file": "text/page_41.txt",
+      "char_count": 2891
+    },
+    {
+      "page": 42,
+      "file": "text/page_42.txt",
+      "char_count": 1976
+    },
+    {
+      "page": 43,
+      "file": "text/page_43.txt",
+      "char_count": 2555
+    },
+    {
+      "page": 44,
+      "file": "text/page_44.txt",
+      "char_count": 2469
+    },
+    {
+      "page": 45,
+      "file": "text/page_45.txt",
+      "char_count": 2630
+    },
+    {
+      "page": 46,
+      "file": "text/page_46.txt",
+      "char_count": 2062
+    },
+    {
+      "page": 47,
+      "file": "text/page_47.txt",
+      "char_count": 2381
+    },
+    {
+      "page": 48,
+      "file": "text/page_48.txt",
+      "char_count": 81
+    }
+  ],
+  "figures": []
+}

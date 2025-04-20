@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+When applying the AI RMF, risks which the organization determines to be highest for the
+AI systems within a given context of use call for the most urgent prioritization and most
+thorough risk management process. In cases where an AI system presents unacceptable
+negativerisklevels–suchaswheresignificantnegativeimpactsareimminent,severeharms
+are actually occurring, or catastrophic risks are present – development and deployment
+should cease in a safe manner until risks can be sufficiently managed. If an AI system’s
+development,deployment,andusecasesarefoundtobelow-riskinaspecificcontext,that
+maysuggestpotentiallylowerprioritization.
+RiskprioritizationmaydifferbetweenAIsystemsthataredesignedordeployedtodirectly
+interact with humans as compared to AI systems that are not. Higher initial prioritization
+maybecalledforinsettingswheretheAIsystemistrainedonlargedatasetscomprisedof
+sensitiveorprotecteddatasuchaspersonallyidentifiableinformation,orwheretheoutputs
+oftheAIsystemshavedirectorindirectimpactonhumans. AIsystemsdesignedtointeract
+only with computational systems and trained on non-sensitive datasets (for example, data
+collectedfromthephysicalenvironment)maycallforlowerinitialprioritization. Nonethe-
+less, regularly assessing and prioritizing risk based on context remains important because
+non-human-facingAIsystemscanhavedownstreamsafetyorsocialimplications.
+Residual risk – defined as risk remaining after risk treatment (Source: ISO GUIDE 73) –
+directlyimpactsendusersoraffectedindividualsandcommunities. Documentingresidual
+riskswillcallforthesystemprovidertofullyconsidertherisksofdeployingtheAIproduct
+andwillinformendusersaboutpotentialnegativeimpactsofinteractingwiththesystem.
+1.2.4 OrganizationalIntegrationandManagementofRisk
+AI risks should not be considered in isolation. Different AI actors have different responsi-
+bilitiesandawarenessdependingontheirrolesinthelifecycle. Forexample,organizations
+developing an AI system often will not have information about how the system may be
+used. AI risk management should be integrated and incorporated into broader enterprise
+riskmanagementstrategiesandprocesses. TreatingAIrisksalongwithothercriticalrisks,
+suchascybersecurityandprivacy,willyieldamoreintegratedoutcomeandorganizational
+efficiencies.
+The AI RMF may be utilized along with related guidance and frameworks for managing
+AI system risks or broader enterprise risks. Some risks related to AI systems are common
+acrossothertypesofsoftwaredevelopmentanddeployment. Examplesofoverlappingrisks
+include: privacy concerns related to the use of underlying data to train AI systems; the en-
+ergy and environmental implications associated with resource-heavy computing demands;
+securityconcernsrelatedtotheconfidentiality,integrity,andavailabilityofthesystemand
+its training and output data; and general security of the underlying software and hardware
+forAIsystems.
+Page8

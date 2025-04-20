@@ -1,0 +1,38 @@
+NISTAI100-1 AIRMF1.0
+Part 1: Foundational Information
+1. Framing Risk
+AI risk management offers a path to minimize potential negative impacts of AI systems,
+such as threats to civil liberties and rights, while also providing opportunities to maximize
+positive impacts. Addressing, documenting, and managing AI risks and potential negative
+impactseffectivelycanleadtomoretrustworthyAIsystems.
+1.1 UnderstandingandAddressingRisks,Impacts,andHarms
+InthecontextoftheAIRMF,riskreferstothecompositemeasureofanevent’sprobability
+of occurring and the magnitude or degree of the consequences of the corresponding event.
+The impacts, or consequences, of AI systems can be positive, negative, or both and can
+result in opportunities or threats (Adapted from: ISO 31000:2018). When considering the
+negative impact of a potential event, risk is a function of 1) the negative impact, or magni-
+tude of harm, that would arise if the circumstance or event occurs and 2) the likelihood of
+occurrence (Adapted from: OMB Circular A-130:2016). Negative impact or harm can be
+experienced by individuals, groups, communities, organizations, society, the environment,
+andtheplanet.
+“Riskmanagementreferstocoordinatedactivitiestodirectandcontrolanorganiza-
+tionwithregardtorisk”(Source: ISO 31000:2018).
+While risk management processes generally address negative impacts, this Framework of-
+fers approaches to minimize anticipated negative impacts of AI systems and identify op-
+portunities to maximize positive impacts. Effectively managing the risk of potential harms
+couldleadtomoretrustworthyAIsystemsandunleashpotentialbenefitstopeople(individ-
+uals,communities,andsociety),organizations,andsystems/ecosystems. Riskmanagement
+canenableAIdevelopersanduserstounderstandimpactsandaccountfortheinherentlim-
+itations and uncertainties in their models and systems, which in turn can improve overall
+system performance and trustworthiness and the likelihood that AI technologies will be
+usedinwaysthatarebeneficial.
+TheAIRMFisdesignedtoaddressnewrisksastheyemerge. Thisflexibilityisparticularly
+important where impacts are not easily foreseeable and applications are evolving. While
+someAIrisksandbenefitsarewell-known,itcanbechallengingtoassessnegativeimpacts
+andthedegreeofharms. Figure1providesexamplesofpotentialharmsthatcanberelated
+toAIsystems.
+AIriskmanagementeffortsshouldconsiderthathumansmayassumethatAIsystemswork
+– and work well – in all settings. For example, whether correct or not, AI systems are
+often perceived as being more objective than humans or as offering greater capabilities
+thangeneralsoftware.
+Page4

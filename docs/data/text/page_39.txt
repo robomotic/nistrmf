@@ -1,0 +1,8 @@
+NISTAI100-1 AIRMF1.0
+AIRMFcross-sectoralprofilescoverrisksofmodelsorapplicationsthatcanbeusedacross
+use cases or sectors. Cross-sectoral profiles can also cover how to govern, map, measure,
+and manage risks for activities or business processes common across sectors such as the
+useoflargelanguagemodels,cloud-basedservicesoracquisition.
+ThisFrameworkdoesnotprescribeprofiletemplates,allowingforflexibilityinimplemen-
+tation.
+Page34

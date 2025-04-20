@@ -1,0 +1,21 @@
+NISTAI100-1 AIRMF1.0
+Fig.2. LifecycleandKeyDimensionsofanAISystem. ModifiedfromOECD(2022)OECD
+FrameworkfortheClassificationofAIsystems—OECDDigitalEconomyPapers. Thetwoinner
+circlesshowAIsystems’keydimensionsandtheoutercircleshowsAIlifecyclestages. Ideally,
+riskmanagementeffortsstartwiththePlanandDesignfunctionintheapplicationcontextandare
+performedthroughouttheAIsystemlifecycle. SeeFigure3forrepresentativeAIactors.
+environmental groups, civil society organizations, end users, and potentially impacted in-
+dividualsandcommunities. Theseactorscan:
+• assistinprovidingcontextandunderstandingpotentialandactualimpacts;
+• beasourceofformalorquasi-formalnormsandguidanceforAIriskmanagement;
+• designateboundariesforAIoperation(technical,societal,legal,andethical);and
+• promote discussion of the tradeoffs needed to balance societal values and priorities
+related to civil liberties and rights, equity, the environment and the planet, and the
+economy.
+Successful risk management depends upon a sense of collective responsibility among AI
+actors shown in Figure 3. The AI RMF functions, described in Section 5, require diverse
+perspectives, disciplines, professions, and experiences. Diverse teams contribute to more
+open sharing of ideas and assumptions about the purposes and functions of technology –
+making these implicit aspects more explicit. This broader collective perspective creates
+opportunitiesforsurfacingproblemsandidentifyingexistingandemergentrisks.
+Page10

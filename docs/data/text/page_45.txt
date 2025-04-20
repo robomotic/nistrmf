@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+Appendix C:
+AI Risk Management and Human-AI Interaction
+Organizations that design, develop, or deploy AI systems for use in operational settings
+may enhance their AI risk management by understanding current limitations of human-
+AI interaction. The AI RMF provides opportunities to clearly define and differentiate the
+various human roles and responsibilities when using, interacting with, or managing AI
+systems.
+Manyofthedata-drivenapproachesthatAIsystemsrelyonattempttoconvertorrepresent
+individual and social observational and decision-making practices into measurable quanti-
+ties. Representing complex human phenomena with mathematical models can come at the
+cost of removing necessary context. This loss of context may in turn make it difficult to
+understandindividualandsocietalimpactsthatarekeytoAIriskmanagementefforts.
+Issuesthatmeritfurtherconsiderationandresearchinclude:
+1. HumanrolesandresponsibilitiesindecisionmakingandoverseeingAIsystems
+need to be clearly defined and differentiated. Human-AI configurations can span
+from fully autonomous to fully manual. AI systems can autonomously make deci-
+sions, defer decision making to a human expert, or be used by a human decision
+maker as an additional opinion. Some AI systems may not require human oversight,
+such as models used to improve video compression. Other systems may specifically
+requirehumanoversight.
+2. Decisionsthatgointothedesign,development,deployment,evaluation,anduse
+of AI systems reflect systemic and human cognitive biases. AI actors bring their
+cognitive biases, both individual and group, into the process. Biases can stem from
+end-user decision-making tasks and be introduced across the AI lifecycle via human
+assumptions, expectations, and decisions during design and modeling tasks. These
+biases, which are not necessarily always harmful, may be exacerbated by AI system
+opacity and the resulting lack of transparency. Systemic biases at the organizational
+level can influence how teams are structured and who controls the decision-making
+processes throughout the AI lifecycle. These biases can also influence downstream
+decisionsbyendusers,decisionmakers,andpolicymakersandmayleadtonegative
+impacts.
+3. Human-AI interaction results vary. Under certain conditions – for example, in
+perceptual-based judgment tasks – the AI part of the human-AI interaction can am-
+plify human biases, leading to more biased decisions than the AI or human alone.
+When these variations are judiciously taken into account in organizing human-AI
+teams, however, they can result in complementarity and improved overall perfor-
+mance.
+Page40

@@ -1,0 +1,38 @@
+NISTAI100-1 AIRMF1.0
+This complexity and varying levels of visibility can introduce uncertainty into risk man-
+agement practices. Anticipating, assessing, and otherwise addressing potential sources of
+negativeriskcanmitigatethisuncertaintyandenhancetheintegrityofthedecisionprocess.
+The information gathered while carrying out the MAP function enables negative risk pre-
+vention and informs decisions for processes such as model management, as well as an
+initial decision about appropriateness or the need for an AI solution. Outcomes in the
+MAP function are the basis for the MEASURE and MANAGE functions. Without contex-
+tual knowledge, and awareness of risks within the identified contexts, risk management is
+difficult to perform. The MAP function is intended to enhance an organization’s ability to
+identifyrisksandbroadercontributingfactors.
+Implementation of this function is enhanced by incorporating perspectives from a diverse
+internal team and engagement with those external to the team that developed or deployed
+the AI system. Engagement with external collaborators, end users, potentially impacted
+communities, and others may vary based on the risk level of a particular AI system, the
+makeup of the internal team, and organizational policies. Gathering such broad perspec-
+tives can help organizations proactively prevent negative risks and develop more trustwor-
+thyAIsystemsby:
+• improvingtheircapacityforunderstandingcontexts;
+• checkingtheirassumptionsaboutcontextofuse;
+• enabling recognition of when systems are not functional within or out of their in-
+tendedcontext;
+• identifyingpositiveandbeneficialusesoftheirexistingAIsystems;
+• improvingunderstandingoflimitationsinAIandMLprocesses;
+• identifyingconstraintsinreal-worldapplicationsthatmayleadtonegativeimpacts;
+• identifying known and foreseeable negative impacts related to intended use of AI
+systems;and
+• anticipatingrisksoftheuseofAIsystemsbeyondintendeduse.
+After completing the MAP function, Framework users should have sufficient contextual
+knowledge about AI system impacts to inform an initial go/no-go decision about whether
+todesign,develop,ordeployanAIsystem. Ifadecisionismadetoproceed,organizations
+should utilize the MEASURE and MANAGE functions along with policies and procedures
+putintoplaceinthe GOVERN functiontoassistinAIriskmanagementefforts. Itisincum-
+bent on Framework users to continue applying the MAP function to AI systems as context,
+capabilities,risks,benefits,andpotentialimpactsevolveovertime.
+Practices related to mapping AI risks are described in the NIST AI RMF Playbook. Table
+2liststhe MAP function’scategoriesandsubcategories.
+Page25

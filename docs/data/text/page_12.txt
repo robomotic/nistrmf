@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+1.2.2 RiskTolerance
+While the AI RMF can be used to prioritize risk, it does not prescribe risk tolerance. Risk
+tolerance refers to the organization’s or AI actor’s (see Appendix A) readiness to bear the
+risk in order to achieve its objectives. Risk tolerance can be influenced by legal or regula-
+tory requirements (Adapted from: ISO GUIDE 73). Risk tolerance and the level of risk that
+isacceptabletoorganizationsorsocietyarehighlycontextualandapplicationanduse-case
+specific. Risk tolerances can be influenced by policies and norms established by AI sys-
+tem owners, organizations, industries, communities, or policy makers. Risk tolerances are
+likely to change over time as AI systems, policies, and norms evolve. Different organiza-
+tions may have varied risk tolerances due to their particular organizational priorities and
+resourceconsiderations.
+Emerging knowledge and methods to better inform harm/cost-benefit tradeoffs will con-
+tinuetobedevelopedanddebatedbybusinesses,governments,academia,andcivilsociety.
+TotheextentthatchallengesforspecifyingAIrisktolerancesremainunresolved,theremay
+becontextswhereariskmanagementframeworkisnotyetreadilyapplicableformitigating
+negativeAIrisks.
+The Framework is intended to be flexible and to augment existing risk practices
+which should align with applicable laws, regulations, and norms. Organizations
+should follow existing regulations and guidelines for risk criteria, tolerance, and
+response established by organizational, domain, discipline, sector, or professional
+requirements. Somesectorsorindustriesmayhaveestablisheddefinitionsofharmor
+established documentation, reporting, and disclosure requirements. Within sectors,
+risk management may depend on existing guidelines for specific applications and
+use case settings. Where established guidelines do not exist, organizations should
+definereasonablerisktolerance. Oncetoleranceisdefined,thisAIRMFcanbeused
+tomanagerisksandtodocumentriskmanagementprocesses.
+1.2.3 RiskPrioritization
+Attemptingtoeliminatenegativeriskentirelycanbecounterproductiveinpracticebecause
+not all incidents and failures can be eliminated. Unrealistic expectations about risk may
+lead organizations to allocate resources in a manner that makes risk triage inefficient or
+impractical or wastes scarce resources. A risk management culture can help organizations
+recognize that not all AI risks are the same, and resources can be allocated purposefully.
+Actionable risk management efforts lay out clear guidelines for assessing trustworthiness
+of each AI system an organization develops or deploys. Policies and resources should be
+prioritizedbasedontheassessedrisklevelandpotentialimpactofanAIsystem. Theextent
+to which an AI system may be customized or tailored to the specific context of use by the
+AIdeployercanbeacontributingfactor.
+Page7

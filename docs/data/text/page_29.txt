@@ -1,0 +1,41 @@
+NISTAI100-1 AIRMF1.0
+Table1: Categoriesandsubcategoriesforthe GOVERN function. (Continued)
+Categories Subcategories
+thatconsidersand GOVERN 4.2: Organizational teams document the risks and po-
+communicatesAI tentialimpactsoftheAItechnologytheydesign,develop,deploy,
+risk. evaluate,anduse,andtheycommunicateabouttheimpactsmore
+broadly.
+GOVERN 4.3: Organizational practices are in place to enable AI
+testing,identificationofincidents,andinformationsharing.
+GOVERN 5: GOVERN 5.1: Organizational policies and practices are in place
+Processesarein to collect, consider, prioritize, and integrate feedback from those
+placeforrobust external to the team that developed or deployed the AI system
+engagementwith regarding the potential individual and societal impacts related to
+relevantAIactors. AIrisks.
+GOVERN 5.2: Mechanisms are established to enable the team
+that developed or deployed AI systems to regularly incorporate
+adjudicated feedback from relevant AI actors into system design
+andimplementation.
+GOVERN 6: Policies GOVERN 6.1: Policies and procedures are in place that address
+andproceduresare AIrisksassociatedwiththird-partyentities,includingrisksofin-
+inplacetoaddress fringementofathird-party’sintellectualpropertyorotherrights.
+AIrisksandbenefits
+GOVERN 6.2: Contingency processes are in place to handle
+arisingfrom
+failures or incidents in third-party data or AI systems deemed to
+third-partysoftware
+behigh-risk.
+anddataandother
+supplychainissues.
+5.2 Map
+The MAP function establishes the context to frame risks related to an AI system. The AI
+lifecycle consists of many interdependent activities involving a diverse set of actors (See
+Figure 3). In practice, AI actors in charge of one part of the process often do not have full
+visibility or control over other parts and their associated contexts. The interdependencies
+between these activities, and among the relevant AI actors, can make it difficult to reliably
+anticipateimpactsofAIsystems. Forexample,earlydecisionsinidentifyingpurposesand
+objectives of an AI system can alter its behavior and capabilities, and the dynamics of de-
+ployment setting (such as end users or impacted individuals) can shape the impacts of AI
+system decisions. As a result, the best intentions within one dimension of the AI lifecycle
+can be undermined via interactions with decisions and conditions in other, later activities.
+Page24

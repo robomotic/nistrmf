@@ -1,0 +1,40 @@
+NISTAI100-1 AIRMF1.0
+PracticesrelatedtomeasuringAIrisksaredescribedintheNISTAIRMFPlaybook. Table
+3liststhe MEASURE function’scategoriesandsubcategories.
+Table3: Categoriesandsubcategoriesforthe MEASURE function.
+Categories Subcategories
+MEASURE 1: MEASURE 1.1: Approaches and metrics for measurement of AI
+Appropriate risksenumeratedduringtheMAPfunctionareselectedforimple-
+methodsandmetrics mentation starting with the most significant AI risks. The risks
+areidentifiedand or trustworthiness characteristics that will not – or cannot – be
+applied. measuredareproperlydocumented.
+MEASURE 1.2: Appropriateness of AI metrics and effectiveness
+ofexistingcontrolsareregularlyassessedandupdated,including
+reportsoferrorsandpotentialimpactsonaffectedcommunities.
+MEASURE 1.3: Internal experts who did not serve as front-line
+developers for the system and/or independent assessors are in-
+volved in regular assessments and updates. Domain experts,
+users, AI actors external to the team that developed or deployed
+theAIsystem,andaffectedcommunitiesareconsultedinsupport
+ofassessmentsasnecessaryperorganizationalrisktolerance.
+MEASURE 2: AI MEASURE2.1: Testsets,metrics,anddetailsaboutthetoolsused
+systemsare duringTEVVaredocumented.
+evaluatedfor
+MEASURE 2.2: Evaluations involving human subjects meet ap-
+trustworthy
+plicable requirements (including human subject protection) and
+characteristics.
+arerepresentativeoftherelevantpopulation.
+MEASURE 2.3: AI system performance or assurance criteria
+are measured qualitatively or quantitatively and demonstrated
+for conditions similar to deployment setting(s). Measures are
+documented.
+MEASURE 2.4: The functionality and behavior of the AI sys-
+temanditscomponents–asidentifiedinthe MAP function–are
+monitoredwheninproduction.
+MEASURE 2.5: The AI system to be deployed is demonstrated
+to be valid and reliable. Limitations of the generalizability be-
+yond the conditions under which the technology was developed
+aredocumented.
+Continuedonnextpage
+Page29

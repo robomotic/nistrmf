@@ -1,0 +1,40 @@
+NISTAI100-1 AIRMF1.0
+Appendix D:
+Attributes of the AI RMF
+NIST described several key attributes of the AI RMF when work on the Framework first
+began. These attributes have remained intact and were used to guide the AI RMF’s devel-
+opment. Theyareprovidedhereasareference.
+TheAIRMFstrivesto:
+1. Berisk-based,resource-efficient,pro-innovation,andvoluntary.
+2. Be consensus-driven and developed and regularly updated through an open, trans-
+parent process. All stakeholders should have the opportunity to contribute to the AI
+RMF’sdevelopment.
+3. Use clear and plain language that is understandable by a broad audience, including
+senior executives, government officials, non-governmental organization leadership,
+and those who are not AI professionals – while still of sufficient technical depth to
+be useful to practitioners. The AI RMF should allow for communication of AI risks
+across an organization, between organizations, with customers, and to the public at
+large.
+4. Provide common language and understanding to manage AI risks. The AI RMF
+should offer taxonomy, terminology, definitions, metrics, and characterizations for
+AIrisk.
+5. Be easily usable and fit well with other aspects of risk management. Use of the
+Framework should be intuitive and readily adaptable as part of an organization’s
+broader risk management strategy and processes. It should be consistent or aligned
+withotherapproachestomanagingAIrisks.
+6. Be useful to a wide range of perspectives, sectors, and technology domains. The AI
+RMF should be universally applicable to any AI technology and to context-specific
+usecases.
+7. Beoutcome-focusedandnon-prescriptive. TheFrameworkshouldprovidea catalog
+ofoutcomesandapproachesratherthanprescribeone-size-fits-allrequirements.
+8. Takeadvantageofandfostergreaterawarenessofexistingstandards,guidelines,best
+practices, methodologies, and tools for managing AI risks – as well as illustrate the
+needforadditional,improvedresources.
+9. Be law- and regulation-agnostic. The Framework should support organizations’
+abilities to operate under applicable domestic and international legal or regulatory
+regimes.
+10. Bealivingdocument. TheAIRMFshouldbereadilyupdatedastechnology,under-
+standing, and approaches to AI trustworthiness and uses of AI change and as stake-
+holders learn from implementing AI risk management generally and this framework
+inparticular.
+Page42

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NIST AI RMF Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <style>
+        body { background: #f8f9fa; }
+        .dashboard-section { margin-bottom: 2em; }
+        .dashboard-card { min-height: 180px; }
+        .navbar-brand { font-weight: bold; letter-spacing: 1px; }
+        .section-title { margin-top: 1em; margin-bottom: 0.5em; }
+        .item-toggle { cursor: pointer; }
+        .count { color: #888; font-size: 1.1em; }
+        .collapse-list { padding-left: 0; list-style: none; }
+        .collapse-list li { margin-bottom: 0.5em; }
+        .object-list { margin-top: 0.5em; }
+        .object-list li { font-size: 0.97em; color: #333; }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">NIST AI RMF</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="/admin/">Admin</a></li>
+        <li class="nav-item"><a class="nav-link" href="/api/">API</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="container">
+    <div class="row">
+        <!-- Govern Section -->
+        <div class="col-12 col-md-6 col-lg-3 dashboard-section">
+            <div class="card dashboard-card mb-3">
+                <div class="card-header section-title text-primary">Govern</div>
+                <div class="card-body">
+                    <ul class="collapse-list">
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#policiesList" aria-expanded="false" aria-controls="policiesList">
+                                <i class="bi bi-chevron-right"></i> Policies <span class="count">({{ policies|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="policiesList">
+                                {% for obj in policies %}<li>{{ obj.title }}</li>{% empty %}<li class="text-muted">No policies</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#rolesList" aria-expanded="false" aria-controls="rolesList">
+                                <i class="bi bi-chevron-right"></i> Roles <span class="count">({{ roles|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="rolesList">
+                                {% for obj in roles %}<li>{{ obj.name }}</li>{% empty %}<li class="text-muted">No roles</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#riskAppetitesList" aria-expanded="false" aria-controls="riskAppetitesList">
+                                <i class="bi bi-chevron-right"></i> Risk Appetites <span class="count">({{ risk_appetites|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="riskAppetitesList">
+                                {% for obj in risk_appetites %}<li>{{ obj.level }}</li>{% empty %}<li class="text-muted">No risk appetites</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#governanceStructuresList" aria-expanded="false" aria-controls="governanceStructuresList">
+                                <i class="bi bi-chevron-right"></i> Governance Structures <span class="count">({{ governance_structures|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="governanceStructuresList">
+                                {% for obj in governance_structures %}<li>{{ obj.name }}</li>{% empty %}<li class="text-muted">No governance structures</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#governanceRolesList" aria-expanded="false" aria-controls="governanceRolesList">
+                                <i class="bi bi-chevron-right"></i> Governance Roles <span class="count">({{ governance_roles|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="governanceRolesList">
+                                {% for obj in governance_roles %}<li>{{ obj.name }}</li>{% empty %}<li class="text-muted">No governance roles</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#humanAIOversightList" aria-expanded="false" aria-controls="humanAIOversightList">
+                                <i class="bi bi-chevron-right"></i> Human-AI Oversight <span class="count">({{ human_ai_oversight|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="humanAIOversightList">
+                                {% for obj in human_ai_oversight %}<li>{{ obj.role.name }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No human-AI oversight</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#thirdPartyRisksList" aria-expanded="false" aria-controls="thirdPartyRisksList">
+                                <i class="bi bi-chevron-right"></i> Third-Party Risks <span class="count">({{ third_party_risks|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="thirdPartyRisksList">
+                                {% for obj in third_party_risks %}<li>{{ obj.third_party_name }} ({{ obj.component_type }})</li>{% empty %}<li class="text-muted">No third-party risks</li>{% endfor %}
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Map Section -->
+        <div class="col-12 col-md-6 col-lg-3 dashboard-section">
+            <div class="card dashboard-card mb-3">
+                <div class="card-header section-title text-success">Map</div>
+                <div class="card-body">
+                    <ul class="collapse-list">
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#aiSystemsList" aria-expanded="false" aria-controls="aiSystemsList">
+                                <i class="bi bi-chevron-right"></i> AI Systems <span class="count">({{ ai_systems|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="aiSystemsList">
+                                {% for obj in ai_systems %}<li>{{ obj.name }}</li>{% empty %}<li class="text-muted">No AI systems</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#lifecycleStagesList" aria-expanded="false" aria-controls="lifecycleStagesList">
+                                <i class="bi bi-chevron-right"></i> Lifecycle Stages <span class="count">({{ lifecycle_stages|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="lifecycleStagesList">
+                                {% for obj in lifecycle_stages %}<li>{{ obj.name }}</li>{% empty %}<li class="text-muted">No lifecycle stages</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#trustworthinessList" aria-expanded="false" aria-controls="trustworthinessList">
+                                <i class="bi bi-chevron-right"></i> Trustworthiness <span class="count">({{ trustworthiness|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="trustworthinessList">
+                                {% for obj in trustworthiness %}<li>{{ obj.get_characteristic_display }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No trustworthiness records</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#impactAssessmentsList" aria-expanded="false" aria-controls="impactAssessmentsList">
+                                <i class="bi bi-chevron-right"></i> Impact Assessments <span class="count">({{ impact_assessments|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="impactAssessmentsList">
+                                {% for obj in impact_assessments %}<li>{{ obj.get_impact_type_display }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No impact assessments</li>{% endfor %}
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Measure Section -->
+        <div class="col-12 col-md-6 col-lg-3 dashboard-section">
+            <div class="card dashboard-card mb-3">
+                <div class="card-header section-title text-warning">Measure</div>
+                <div class="card-body">
+                    <ul class="collapse-list">
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#assessmentsList" aria-expanded="false" aria-controls="assessmentsList">
+                                <i class="bi bi-chevron-right"></i> Assessments <span class="count">({{ assessments|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="assessmentsList">
+                                {% for obj in assessments %}<li>{{ obj.assessment_type }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No assessments</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#tevvList" aria-expanded="false" aria-controls="tevvList">
+                                <i class="bi bi-chevron-right"></i> TEVV Records <span class="count">({{ tevv|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="tevvList">
+                                {% for obj in tevv %}<li>{{ obj.ai_system.name }} ({{ obj.tevved_at|date:'Y-m-d' }})</li>{% empty %}<li class="text-muted">No TEVV records</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#environmentalMetricsList" aria-expanded="false" aria-controls="environmentalMetricsList">
+                                <i class="bi bi-chevron-right"></i> Environmental Metrics <span class="count">({{ environmental_metrics|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="environmentalMetricsList">
+                                {% for obj in environmental_metrics %}<li>{{ obj.metric_name }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No environmental metrics</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#humanAIEvaluationsList" aria-expanded="false" aria-controls="humanAIEvaluationsList">
+                                <i class="bi bi-chevron-right"></i> Human-AI Evaluations <span class="count">({{ human_ai_evaluations|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="humanAIEvaluationsList">
+                                {% for obj in human_ai_evaluations %}<li>{{ obj.ai_system.name }} ({{ obj.evaluated_at|date:'Y-m-d' }})</li>{% empty %}<li class="text-muted">No human-AI evaluations</li>{% endfor %}
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Manage Section -->
+        <div class="col-12 col-md-6 col-lg-3 dashboard-section">
+            <div class="card dashboard-card mb-3">
+                <div class="card-header section-title text-danger">Manage</div>
+                <div class="card-body">
+                    <ul class="collapse-list">
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#incidentsList" aria-expanded="false" aria-controls="incidentsList">
+                                <i class="bi bi-chevron-right"></i> Incidents <span class="count">({{ incidents|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="incidentsList">
+                                {% for obj in incidents %}<li>{{ obj.title }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No incidents</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#improvementActionsList" aria-expanded="false" aria-controls="improvementActionsList">
+                                <i class="bi bi-chevron-right"></i> Improvement Actions <span class="count">({{ improvement_actions|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="improvementActionsList">
+                                {% for obj in improvement_actions %}<li>{{ obj.title }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No improvement actions</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#postDeploymentMonitoringList" aria-expanded="false" aria-controls="postDeploymentMonitoringList">
+                                <i class="bi bi-chevron-right"></i> Post-Deployment Monitoring <span class="count">({{ post_deployment_monitoring|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="postDeploymentMonitoringList">
+                                {% for obj in post_deployment_monitoring %}<li>{{ obj.ai_system.name }}</li>{% empty %}<li class="text-muted">No post-deployment monitoring</li>{% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <span class="item-toggle" data-bs-toggle="collapse" data-bs-target="#emergentRisksList" aria-expanded="false" aria-controls="emergentRisksList">
+                                <i class="bi bi-chevron-right"></i> Emergent Risks <span class="count">({{ emergent_risks|length }})</span>
+                            </span>
+                            <ul class="collapse object-list" id="emergentRisksList">
+                                {% for obj in emergent_risks %}<li>{{ obj.description }} ({{ obj.ai_system.name }})</li>{% empty %}<li class="text-muted">No emergent risks</li>{% endfor %}
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

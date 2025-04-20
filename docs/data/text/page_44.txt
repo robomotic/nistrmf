@@ -1,0 +1,37 @@
+NISTAI100-1 AIRMF1.0
+• ComputationalcostsfordevelopingAIsystemsandtheirimpactontheenvironment
+andplanet.
+• Inability to predict or detect the side effects of AI-based systems beyond statistical
+measures.
+Privacy and cybersecurity risk management considerations and approaches are applicable
+in the design, development, deployment, evaluation, and use of AI systems. Privacy and
+cybersecurity risks are also considered as part of broader enterprise risk management con-
+siderations,whichmayincorporateAIrisks. AspartoftheefforttoaddressAItrustworthi-
+ness characteristics such as “Secure and Resilient” and “Privacy-Enhanced,” organizations
+may consider leveraging available standards and guidance that provide broad guidance to
+organizationstoreducesecurityandprivacyrisks,suchas,butnotlimitedto,theNISTCy-
+bersecurityFramework,theNISTPrivacyFramework,theNISTRiskManagementFrame-
+work, and the Secure Software Development Framework. These frameworks have some
+features in common with the AI RMF. Like most risk management approaches, they are
+outcome-based rather than prescriptive and are often structured around a Core set of func-
+tions, categories, and subcategories. While there are significant differences between these
+frameworks based on the domain addressed – and because AI risk management calls for
+addressingmanyothertypesofrisks–frameworkslikethosementionedabovemayinform
+securityandprivacyconsiderationsinthe MAP, MEASURE,and MANAGE functionsofthe
+AIRMF.
+At the same time, guidance available before publication of this AI RMF does not compre-
+hensively address many AI system risks. For example, existing frameworks and guidance
+areunableto:
+• adequatelymanagetheproblemofharmfulbiasinAIsystems;
+• confrontthechallengingrisksrelatedtogenerativeAI;
+• comprehensivelyaddresssecurityconcernsrelatedtoevasion,modelextraction,mem-
+bershipinference,availability,orothermachinelearningattacks;
+• accountforthecomplexattacksurfaceofAIsystemsorothersecurityabusesenabled
+byAIsystems;and
+• considerrisksassociatedwiththird-partyAItechnologies,transferlearning,andoff-
+labelusewhereAIsystemsmaybetrainedfordecision-makingoutsideanorganiza-
+tion’ssecuritycontrolsortrainedinonedomainandthen“fine-tuned”foranother.
+Both AI and traditional software technologies and systems are subject to rapid innovation.
+Technology advances should be monitored and deployed to take advantage of those devel-
+opmentsandworktowardsafutureofAIthatisbothtrustworthyandresponsible.
+Page39

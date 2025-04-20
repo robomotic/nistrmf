@@ -1,0 +1,51 @@
+NISTAI100-1 AIRMF1.0
+PracticesrelatedtomanagingAIrisksaredescribedintheNISTAIRMFPlaybook. Table
+4liststhe MANAGE function’scategoriesandsubcategories.
+Table4: Categoriesandsubcategoriesforthe MANAGE function.
+Categories Subcategories
+MANAGE 1: AI MANAGE 1.1: A determination is made as to whether the AI
+risksbasedon system achieves its intended purposes and stated objectives and
+assessmentsand whetheritsdevelopmentordeploymentshouldproceed.
+otheranalytical
+MANAGE 1.2: Treatment of documented AI risks is prioritized
+outputfromthe
+basedonimpact,likelihood,andavailableresourcesormethods.
+MAP and MEASURE
+MANAGE1.3: ResponsestotheAIrisksdeemedhighpriority,as
+functionsare
+identifiedbythe MAP function,aredeveloped,planned,anddoc-
+prioritized,
+umented. Riskresponseoptionscanincludemitigating,transfer-
+respondedto,and
+ring,avoiding,oraccepting.
+managed.
+MANAGE 1.4: Negative residual risks (defined as the sum of all
+unmitigated risks) to both downstream acquirers of AI systems
+andendusersaredocumented.
+MANAGE 2: MANAGE 2.1: Resources required to manage AI risks are taken
+Strategiesto into account – along with viable non-AI alternative systems, ap-
+maximizeAI proaches, or methods – to reduce the magnitude or likelihood of
+benefitsand potentialimpacts.
+minimizenegative
+MANAGE 2.2: Mechanisms are in place and applied to sustain
+impactsareplanned,
+thevalueofdeployedAIsystems.
+prepared,
+MANAGE2.3: Proceduresarefollowedtorespondtoandrecover
+implemented,
+fromapreviouslyunknownriskwhenitisidentified.
+documented,and
+informedbyinput MANAGE 2.4: Mechanismsareinplaceandapplied,andrespon-
+fromrelevantAI sibilitiesareassignedandunderstood,tosupersede,disengage,or
+actors. deactivateAIsystemsthatdemonstrateperformanceoroutcomes
+inconsistentwithintendeduse.
+MANAGE 3: AI MANAGE 3.1: AI risks and benefits from third-party resources
+risksandbenefits are regularly monitored, and risk controls are applied and
+fromthird-party documented.
+entitiesare
+MANAGE 3.2: Pre-trained models which are used for develop-
+managed.
+ment are monitored as part of AI system regular monitoring and
+maintenance.
+Continuedonnextpage
+Page32

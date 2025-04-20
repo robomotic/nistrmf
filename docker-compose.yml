@@ -1,0 +1,28 @@
+version: '3.9'
+services:
+  nistai:
+    build: .
+    container_name: nistai
+    command: uvicorn nistaiapp.asgi:application --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - SUPERUSER_NAME=admin
+      - SUPERUSER_EMAIL=admin@example.com
+      - SUPERUSER_PASSWORD=adminpass
+    depends_on:
+      - db
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: nistai
+      POSTGRES_USER: nistai
+      POSTGRES_PASSWORD: nistai
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+volumes:
+  postgres_data:

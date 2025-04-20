@@ -1,0 +1,37 @@
+NISTAI100-1 AIRMF1.0
+Risks to interpretability often can be addressed by communicating a description of why
+an AI system made a particular prediction or recommendation. (See “Four Principles of
+Explainable Artificial Intelligence” and “Psychological Foundations of Explainability and
+InterpretabilityinArtificialIntelligence”foundhere.)
+Transparency, explainability, and interpretability are distinct characteristics that support
+each other. Transparency can answer the question of “what happened” in the system. Ex-
+plainability can answer the question of “how” a decision was made in the system. Inter-
+pretability can answer the question of “why” a decision was made by the system and its
+meaningorcontexttotheuser.
+3.6 Privacy-Enhanced
+Privacyrefersgenerallytothenormsandpracticesthathelptosafeguardhumanautonomy,
+identity, and dignity. These norms and practices typically address freedom from intrusion,
+limiting observation, or individuals’ agency to consent to disclosure or control of facets of
+their identities (e.g., body, data, reputation). (See The NIST Privacy Framework: A Tool
+forImprovingPrivacythroughEnterpriseRiskManagement.)
+Privacyvaluessuchasanonymity,confidentiality,andcontrolgenerallyshouldguidechoices
+for AI system design, development, and deployment. Privacy-related risks may influence
+security, bias, and transparency and come with tradeoffs with these other characteristics.
+Likesafetyandsecurity,specifictechnicalfeaturesofanAIsystemmaypromoteorreduce
+privacy. AI systems can also present new risks to privacy by allowing inference to identify
+individualsorpreviouslyprivateinformationaboutindividuals.
+Privacy-enhancingtechnologies(“PETs”)forAI,aswellasdataminimizingmethodssuch
+as de-identification and aggregation for certain model outputs, can support design for
+privacy-enhanced AI systems. Under certain conditions such as data sparsity, privacy-
+enhancing techniques can result in a loss in accuracy, affecting decisions about fairness
+andothervaluesincertaindomains.
+3.7 Fair–withHarmfulBiasManaged
+FairnessinAIincludesconcernsforequalityandequitybyaddressingissuessuchasharm-
+fulbiasanddiscrimination. Standardsoffairnesscanbecomplexanddifficulttodefinebe-
+causeperceptionsoffairnessdifferamongculturesandmayshiftdependingonapplication.
+Organizations’ risk management efforts will be enhanced by recognizing and considering
+these differences. Systems in which harmful biases are mitigated are not necessarily fair.
+For example, systems in which predictions are somewhat balanced across demographic
+groups may still be inaccessible to individuals with disabilities or affected by the digital
+divideormayexacerbateexistingdisparitiesorsystemicbiases.
+Page17

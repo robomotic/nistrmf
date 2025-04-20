@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+deployed, or evaluated – which can create opportunities to surface problems and identify
+existingandemergentrisks.
+An online companion resource to the AI RMF, the NIST AI RMF Playbook, is available
+to help organizations navigate the AI RMF and achieve its outcomes through suggested
+tactical actions they can apply within their own contexts. Like the AI RMF, the Playbook
+is voluntary and organizations can utilize the suggestions according to their needs and
+interests. Playbook users can create tailored guidance selected from suggested material
+fortheirownuseandcontributetheirsuggestionsforsharingwiththebroadercommunity.
+AlongwiththeAIRMF,thePlaybookispartoftheNISTTrustworthyandResponsibleAI
+ResourceCenter.
+Framework users may apply these functions as best suits their needs for managing
+AI risks based on their resources and capabilities. Some organizations may choose
+to select from among the categories and subcategories; others may choose and have
+thecapacitytoapplyallcategoriesandsubcategories. Assumingagovernancestruc-
+ture is in place, functions may be performed in any order across the AI lifecycle as
+deemed to add value by a user of the framework. After instituting the outcomes in
+GOVERN, most users of the AI RMF would start with the MAP function and con-
+tinue to MEASURE or MANAGE. However users integrate the functions, the process
+should be iterative, with cross-referencing between functions as necessary. Simi-
+larly, there are categories and subcategories with elements that apply to multiple
+functions,orthatlogicallyshouldtakeplacebeforecertainsubcategorydecisions.
+5.1 Govern
+The GOVERN function:
+• cultivatesandimplementsacultureofriskmanagementwithinorganizationsdesign-
+ing,developing,deploying,evaluating,oracquiringAIsystems;
+• outlines processes, documents, and organizational schemes that anticipate, identify,
+andmanagetherisksasystemcanpose,includingtousersandothersacrosssociety
+–andprocedurestoachievethoseoutcomes;
+• incorporatesprocessestoassesspotentialimpacts;
+• provides a structure by which AI risk management functions can align with organi-
+zationalprinciples,policies,andstrategicpriorities;
+• connects technical aspects of AI system design and development to organizational
+values and principles, and enables organizational practices and competencies for the
+individuals involved in acquiring, training, deploying, and monitoring such systems;
+and
+• addresses full product lifecycle and associated processes, including legal and other
+issuesconcerninguseofthird-partysoftwareorhardwaresystemsanddata.
+Page21

@@ -1,0 +1,38 @@
+NISTAI100-1 AIRMF1.0
+Accuracy and robustness contribute to the validity and trustworthiness of AI systems, and
+canbeintensionwithoneanotherinAIsystems.
+Accuracy is defined by ISO/IEC TS 5723:2022 as “closeness of results of observations,
+computations, or estimates to the true values or the values accepted as being true.” Mea-
+sures of accuracy should consider computational-centric measures (e.g., false positive and
+false negative rates), human-AI teaming, and demonstrate external validity (generalizable
+beyond the training conditions). Accuracy measurements should always be paired with
+clearlydefinedandrealistictestsets–thatarerepresentativeofconditionsofexpecteduse
+– and details about test methodology; these should be included in associated documen-
+tation. Accuracy measurements may include disaggregation of results for different data
+segments.
+Robustness or generalizability is defined as the “ability of a system to maintain its level
+of performance under a variety of circumstances” (Source: ISO/IEC TS 5723:2022). Ro-
+bustness is a goal for appropriate system functionality in a broad set of conditions and
+circumstances, including uses of AI systems not initially anticipated. Robustness requires
+not only that the system perform exactly as it does under expected uses, but also that it
+should perform in ways that minimize potential harms to people if it is operating in an
+unexpectedsetting.
+Validity and reliability for deployed AI systems are often assessed by ongoing testing or
+monitoring that confirms a system is performing as intended. Measurement of validity,
+accuracy,robustness,andreliabilitycontributetotrustworthinessandshouldtakeintocon-
+siderationthatcertaintypesoffailurescancausegreaterharm. AIriskmanagementefforts
+should prioritize the minimization of potential negative impacts, and may need to include
+humaninterventionincaseswheretheAIsystemcannotdetectorcorrecterrors.
+3.2 Safe
+AI systems should “not under defined conditions, lead to a state in which human life,
+health,property,ortheenvironmentisendangered”(Source: ISO/IEC TS 5723:2022). Safe
+operationofAIsystemsisimprovedthrough:
+• responsibledesign,development,anddeploymentpractices;
+• clearinformationtodeployersonresponsibleuseofthesystem;
+• responsibledecision-makingbydeployersandendusers;and
+• explanationsanddocumentationofrisksbasedonempiricalevidenceofincidents.
+Different types of safety risks may require tailored AI risk management approaches based
+on context and the severity of potential risks presented. Safety risks that pose a potential
+riskofseriousinjuryordeathcallforthemosturgentprioritizationandmostthoroughrisk
+managementprocess.
+Page14

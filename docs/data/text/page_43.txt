@@ -1,0 +1,41 @@
+NISTAI100-1 AIRMF1.0
+Appendix B:
+How AI Risks Differ from Traditional Software Risks
+As with traditional software, risks from AI-based technology can be bigger than an en-
+terprise, span organizations, and lead to societal impacts. AI systems also bring a set of
+risks that are not comprehensively addressed by current risk frameworks and approaches.
+SomeAIsystemfeaturesthatpresentrisksalsocanbebeneficial. Forexample,pre-trained
+models and transfer learning can advance research and increase accuracy and resilience
+whencomparedtoothermodelsandapproaches. Identifyingcontextualfactorsinthe MAP
+function will assist AI actors in determining the level of risk and potential management
+efforts.
+Compared to traditional software, AI-specific risks that are new or increased include the
+following:
+• ThedatausedforbuildinganAIsystemmaynotbeatrueorappropriaterepresenta-
+tion ofthe context or intendeduse of the AIsystem, and the ground truthmay either
+notexist ornotbe available. Additionally,harmfulbias andotherdata qualityissues
+canaffectAIsystemtrustworthiness,whichcouldleadtonegativeimpacts.
+• AI system dependency and reliance on data for training tasks, combined with in-
+creasedvolumeandcomplexitytypicallyassociatedwithsuchdata.
+• IntentionalorunintentionalchangesduringtrainingmayfundamentallyalterAIsys-
+temperformance.
+• Datasets used to train AI systems may become detached from their original and in-
+tendedcontextormaybecomestaleoroutdatedrelativetodeploymentcontext.
+• AI system scale and complexity (many systems contain billions or even trillions of
+decisionpoints)housedwithinmoretraditionalsoftwareapplications.
+• Use of pre-trained models that can advance research and improve performance can
+alsoincreaselevelsofstatisticaluncertaintyandcauseissueswithbiasmanagement,
+scientificvalidity,andreproducibility.
+• Higher degree of difficulty in predicting failure modes for emergent properties of
+large-scalepre-trainedmodels.
+• PrivacyriskduetoenhanceddataaggregationcapabilityforAIsystems.
+• AI systems may require more frequent maintenance and triggers for conducting cor-
+rectivemaintenanceduetodata,model,orconceptdrift.
+• Increasedopacityandconcernsaboutreproducibility.
+• UnderdevelopedsoftwaretestingstandardsandinabilitytodocumentAI-basedprac-
+tices to the standard expected of traditionally engineered software for all but the
+simplestofcases.
+• Difficulty in performing regular AI-based software testing, or determining what to
+test, since AI systems are not subject to the same controls as traditional code devel-
+opment.
+Page38

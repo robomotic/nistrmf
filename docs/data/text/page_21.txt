@@ -1,0 +1,38 @@
+NISTAI100-1 AIRMF1.0
+ple, how a human operator or user is notified when a potential or actual adverse outcome
+caused by an AI system is detected. A transparent system is not necessarily an accurate,
+privacy-enhanced, secure, or fair system. However, it is difficult to determine whether an
+opaque system possesses such characteristics, and to do so over time as complex systems
+evolve.
+TheroleofAIactorsshouldbeconsideredwhenseekingaccountabilityfortheoutcomesof
+AIsystems. TherelationshipbetweenriskandaccountabilityassociatedwithAIandtech-
+nologicalsystemsmorebroadlydiffersacrosscultural,legal,sectoral,andsocietalcontexts.
+When consequences are severe, such as when life and liberty are at stake, AI developers
+and deployers should consider proportionally and proactively adjusting their transparency
+andaccountabilitypractices. Maintainingorganizationalpracticesandgoverningstructures
+forharmreduction,likeriskmanagement,canhelpleadtomoreaccountablesystems.
+Measures to enhance transparency and accountability should also consider the impact of
+theseeffortsontheimplementingentity,includingthelevelofnecessaryresourcesandthe
+needtosafeguardproprietaryinformation.
+Maintaining the provenance of training data and supporting attribution of the AI system’s
+decisions to subsets of training data can assist with both transparency and accountability.
+Training data may also be subject to copyright and should follow applicable intellectual
+propertyrightslaws.
+AstransparencytoolsforAIsystemsandrelateddocumentationcontinuetoevolve,devel-
+opers of AI systems are encouraged to test different types of transparency tools in cooper-
+ationwithAIdeployerstoensurethatAIsystemsareusedasintended.
+3.5 ExplainableandInterpretable
+Explainability refers to a representation of the mechanisms underlying AI systems’ oper-
+ation, whereas interpretability refers to the meaning of AI systems’ output in the context
+of their designed functional purposes. Together, explainability and interpretability assist
+those operating or overseeing an AI system, as well as users of an AI system, to gain
+deeper insights into the functionality and trustworthiness of the system, including its out-
+puts. The underlying assumption is that perceptions of negative risk stem from a lack of
+ability to make sense of, or contextualize, system output appropriately. Explainable and
+interpretableAIsystemsofferinformationthatwillhelpendusersunderstandthepurposes
+andpotentialimpactofanAIsystem.
+Risk from lack of explainability may be managed by describing how AI systems function,
+with descriptions tailored to individual differences such as the user’s role, knowledge, and
+skilllevel. Explainablesystemscanbedebuggedandmonitoredmoreeasily,andtheylend
+themselvestomorethoroughdocumentation,audit,andgovernance.
+Page16

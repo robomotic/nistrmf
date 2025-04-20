@@ -1,0 +1,27 @@
+NISTAI100-1 AIRMF1.0
+Fig.1. ExamplesofpotentialharmsrelatedtoAIsystems. TrustworthyAIsystemsandtheir
+responsibleusecanmitigatenegativerisksandcontributetobenefitsforpeople,organizations,and
+ecosystems.
+1.2 ChallengesforAIRiskManagement
+Severalchallengesaredescribedbelow. Theyshouldbetakenintoaccountwhenmanaging
+risksinpursuitofAItrustworthiness.
+1.2.1 RiskMeasurement
+AI risks or failures that are not well-defined or adequately understood are difficult to mea-
+surequantitativelyorqualitatively. TheinabilitytoappropriatelymeasureAIrisksdoesnot
+implythatanAIsystemnecessarilyposeseitherahighorlowrisk. Someriskmeasurement
+challengesinclude:
+Risksrelatedtothird-partysoftware,hardware,anddata: Third-partydataorsystems
+can accelerate research and development and facilitate technology transition. They also
+maycomplicateriskmeasurement. Riskcanemergebothfromthird-partydata,softwareor
+hardwareitselfandhowitisused. Riskmetricsormethodologiesusedbytheorganization
+developing the AI system may not align with the risk metrics or methodologies uses by
+the organization deploying or operating the system. Also, the organization developing
+theAIsystemmaynotbetransparentabouttheriskmetricsormethodologiesitused. Risk
+measurementandmanagementcanbecomplicatedbyhowcustomersuseorintegratethird-
+party data or systems into AI products or services, particularly without sufficient internal
+governancestructuresandtechnicalsafeguards. Regardless,allpartiesandAIactorsshould
+manage risk in the AI systems they develop, deploy, or use as standalone or integrated
+components.
+Tracking emergent risks: Organizations’ risk management efforts will be enhanced by
+identifying and tracking emergent risks and considering techniques for measuring them.
+Page5

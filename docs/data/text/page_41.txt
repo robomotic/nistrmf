@@ -1,0 +1,40 @@
+NISTAI100-1 AIRMF1.0
+andvalidationtasksaredistinctfromthosewhoperformtestandevaluationactions. Tasks
+can be incorporated into a phase as early as design, where tests are planned in accordance
+withthedesignrequirement.
+• TEVV tasks for design, planning, and data may center on internal and external vali-
+dation of assumptions for system design, data collection, and measurements relative
+totheintendedcontextofdeploymentorapplication.
+• TEVV tasks for development (i.e., model building) include model validation and
+assessment.
+• TEVVtasksfordeploymentincludesystemvalidationandintegrationinproduction,
+with testing, and recalibration for systems and process integration, user experience,
+andcompliancewithexistinglegal,regulatory,andethicalspecifications.
+• TEVVtasksforoperationsinvolveongoingmonitoringforperiodicupdates,testing,
+and subject matter expert (SME) recalibration of models, the tracking of incidents
+or errors reported and their management, the detection of emergent properties and
+relatedimpacts,andprocessesforredressandresponse.
+Human Factors tasks and activities are found throughout the dimensions of the AI life-
+cycle. They include human-centered design practices and methodologies, promoting the
+active involvement of end users and other interested parties and relevant AI actors, incor-
+porating context-specific norms and values in system design, evaluating and adapting end
+userexperiences,andbroadintegrationofhumansandhumandynamicsinallphasesofthe
+AIlifecycle. Humanfactorsprofessionalsprovidemultidisciplinaryskillsandperspectives
+to understand context of use, inform interdisciplinary and demographic diversity, engage
+in consultative processes, design and evaluate user experience, perform human-centered
+evaluationandtesting,andinformimpactassessments.
+Domain Expert tasks involve input from multidisciplinary practitioners or scholars who
+provide knowledge or expertise in – and about – an industry sector, economic sector, con-
+text, or application area where an AI system is being used. AI actors who are domain
+experts can provide essential guidance for AI system design and development, and inter-
+pretoutputsinsupportofworkperformedbyTEVVandAIimpactassessmentteams.
+AIImpactAssessmenttasksincludeassessingandevaluatingrequirementsforAIsystem
+accountability, combating harmful bias, examining impacts of AI systems, product safety,
+liability, and security, among others. AI actors such as impact assessors and evaluators
+providetechnical,humanfactor,socio-cultural,andlegalexpertise.
+ProcurementtasksareconductedbyAIactorswithfinancial,legal,orpolicymanagement
+authority for acquisition of AI models, products, or services from a third-party developer,
+vendor,orcontractor.
+Governance and Oversight tasks are assumed by AI actors with management, fiduciary,
+and legal authority and responsibility for the organization in which an AI system is de-
+Page36

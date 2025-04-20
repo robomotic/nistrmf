@@ -1,0 +1,29 @@
+NISTAI100-1 AIRMF1.0
+4. Effectiveness of the AI RMF
+Evaluations of AI RMF effectiveness – including ways to measure bottom-line improve-
+ments in the trustworthiness of AI systems – will be part of future NIST activities, in
+conjunctionwiththeAIcommunity.
+Organizations and other users of the Framework are encouraged to periodically evaluate
+whether the AI RMF has improved their ability to manage AI risks, including but not lim-
+itedtotheirpolicies,processes,practices,implementationplans,indicators,measurements,
+and expected outcomes. NIST intends to work collaboratively with others to develop met-
+rics, methodologies, and goals for evaluating the AI RMF’s effectiveness, and to broadly
+shareresultsandsupportinginformation. Frameworkusersareexpectedtobenefitfrom:
+• enhanced processes for governing, mapping, measuring, and managing AI risk, and
+clearlydocumentingoutcomes;
+• improved awareness of the relationships and tradeoffs among trustworthiness char-
+acteristics,socio-technicalapproaches,andAIrisks;
+• explicitprocessesformakinggo/no-gosystemcommissioninganddeploymentdeci-
+sions;
+• established policies, processes, practices, and procedures for improving organiza-
+tionalaccountabilityeffortsrelatedtoAIsystemrisks;
+• enhancedorganizationalculturewhichprioritizestheidentificationandmanagement
+of AI system risks and potential impacts to individuals, communities, organizations,
+andsociety;
+• better information sharing within and across organizations about risks, decision-
+makingprocesses,responsibilities,commonpitfalls,TEVVpractices,andapproaches
+forcontinuousimprovement;
+• greatercontextualknowledgeforincreasedawarenessofdownstreamrisks;
+• strengthenedengagementwithinterestedpartiesandrelevantAIactors;and
+• augmentedcapacityforTEVVofAIsystemsandassociatedrisks.
+Page19

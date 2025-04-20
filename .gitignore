@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Django
+*.sqlite3
+db.sqlite3
+*.log
+
+# Poetry
+.poetry/
+
+# VSCode
+.vscode/
+
+# Pyenv
+.python-version
+
+# Virtualenv
+.env
+.venv
+venv/
+ENV/
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.pid.lock
+
+# Coverage
+htmlcov/
+.coverage
+.tox/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Docs
+*.pdf
+
+# Other
+*.swp
+*.bak
+staticfiles/*

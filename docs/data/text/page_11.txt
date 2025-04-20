@@ -1,0 +1,36 @@
+NISTAI100-1 AIRMF1.0
+AI system impact assessment approaches can help AI actors understand potential impacts
+orharmswithinspecificcontexts.
+Availability of reliable metrics: The current lack of consensus on robust and verifiable
+measurement methods for risk and trustworthiness, and applicability to different AI use
+cases, is an AI risk measurement challenge. Potential pitfalls when seeking to measure
+negative risk or harms include the reality that development of metrics is often an institu-
+tionalendeavorandmayinadvertentlyreflectfactorsunrelatedtotheunderlyingimpact. In
+addition, measurement approaches can be oversimplified, gamed, lack critical nuance, be-
+come relied upon in unexpected ways, or fail to account for differences in affected groups
+andcontexts.
+Approachesformeasuringimpactsonapopulationworkbestiftheyrecognizethatcontexts
+matter,thatharmsmayaffectvariedgroupsorsub-groupsdifferently,andthatcommunities
+orothersub-groupswhomaybeharmedarenotalwaysdirectusersofasystem.
+Risk at different stages of the AI lifecycle: Measuring risk at an earlier stage in the AI
+lifecycle may yield different results than measuring risk at a later stage; some risks may
+be latent at a given point in time and may increase as AI systems adapt and evolve. Fur-
+thermore, different AI actors across the AI lifecycle can have different risk perspectives.
+For example, an AI developer who makes AI software available, such as pre-trained mod-
+els, can have a different risk perspective than an AI actor who is responsible for deploying
+that pre-trained model in a specific use case. Such deployers may not recognize that their
+particularusescouldentailriskswhichdifferfromthoseperceivedbytheinitialdeveloper.
+All involved AI actors share responsibilities for designing, developing, and deploying a
+trustworthyAIsystemthatisfitforpurpose.
+Risk in real-world settings: While measuring AI risks in a laboratory or a controlled
+environmentmayyieldimportantinsightspre-deployment,thesemeasurementsmaydiffer
+fromrisksthatemergeinoperational,real-worldsettings.
+Inscrutability: Inscrutable AI systems can complicate risk measurement. Inscrutability
+can be a result of the opaque nature of AI systems (limited explainability or interpretabil-
+ity), lack of transparency or documentation in AI system development or deployment, or
+inherentuncertaintiesinAIsystems.
+Humanbaseline: RiskmanagementofAIsystemsthatareintendedtoaugmentorreplace
+human activity, for example decision making, requires some form of baseline metrics for
+comparison. ThisisdifficulttosystematizesinceAIsystemscarryoutdifferenttasks–and
+performtasksdifferently–thanhumans.
+Page6

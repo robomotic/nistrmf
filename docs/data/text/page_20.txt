@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+Employing safety considerations during the lifecycle and starting as early as possible with
+planninganddesigncanpreventfailuresorconditionsthatcanrenderasystemdangerous.
+Other practical approaches for AI safety often relate to rigorous simulation and in-domain
+testing, real-time monitoring, and the ability to shut down, modify, or have human inter-
+ventionintosystemsthatdeviatefromintendedorexpectedfunctionality.
+AI safety risk management approaches should take cues from efforts and guidelines for
+safety in fields such as transportation and healthcare, and align with existing sector- or
+application-specificguidelinesorstandards.
+3.3 SecureandResilient
+AI systems, as well as the ecosystems in which they are deployed, may be said to be re-
+silientiftheycanwithstandunexpectedadverseeventsorunexpectedchangesintheirenvi-
+ronmentoruse–oriftheycanmaintaintheirfunctionsandstructureinthefaceofinternal
+and external change and degrade safely and gracefully when this is necessary (Adapted
+from: ISO/IEC TS 5723:2022). Common security concerns relate to adversarial examples,
+data poisoning, and the exfiltration of models, training data, or other intellectual property
+through AI system endpoints. AI systems that can maintain confidentiality, integrity, and
+availability through protection mechanisms that prevent unauthorized access and use may
+be said to be secure. Guidelines in the NIST Cybersecurity Framework and Risk Manage-
+mentFrameworkareamongthosewhichareapplicablehere.
+Security and resilience are related but distinct characteristics. While resilience is the abil-
+ity to return to normal function after an unexpected adverse event, security includes re-
+silience but also encompasses protocols to avoid, protect against, respond to, or recover
+from attacks. Resilience relates to robustness and goes beyond the provenance of the data
+toencompassunexpectedoradversarialuse(orabuseormisuse)ofthemodelordata.
+3.4 AccountableandTransparent
+Trustworthy AI depends upon accountability. Accountability presupposes transparency.
+TransparencyreflectstheextenttowhichinformationaboutanAIsystemanditsoutputsis
+availabletoindividualsinteractingwithsuchasystem–regardlessofwhethertheyareeven
+awarethattheyaredoingso. Meaningfultransparencyprovidesaccesstoappropriatelevels
+of information based on the stage of the AI lifecycle and tailored to the role or knowledge
+of AI actors or individuals interacting with or using the AI system. By promoting higher
+levelsofunderstanding,transparencyincreasesconfidenceintheAIsystem.
+This characteristic’s scope spans from design decisions and training data to model train-
+ing, the structure of the model, its intended use cases, and how and when deployment,
+post-deployment, or end user decisions were made and by whom. Transparency is often
+necessaryforactionableredressrelatedtoAIsystemoutputsthatareincorrectorotherwise
+lead to negative impacts. Transparency should consider human-AI interaction: for exam-
+Page15

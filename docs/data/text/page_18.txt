@@ -1,0 +1,39 @@
+NISTAI100-1 AIRMF1.0
+about fairness and other values in certain domains. Dealing with tradeoffs requires tak-
+ing into account the decision-making context. These analyses can highlight the existence
+andextentoftradeoffsbetweendifferentmeasures,buttheydonotanswerquestionsabout
+howtonavigatethetradeoff. Thosedependonthevaluesatplayintherelevantcontextand
+shouldberesolvedinamannerthatisbothtransparentandappropriatelyjustifiable.
+There are multiple approaches for enhancing contextual awareness in the AI lifecycle. For
+example, subject matter experts can assist in the evaluation of TEVV findings and work
+with product and deployment teams to align TEVV parameters to requirements and de-
+ployment conditions. When properly resourced, increasing the breadth and diversity of
+input from interested parties and relevant AI actors throughout the AI lifecycle can en-
+hance opportunities for informing contextually sensitive evaluations, and for identifying
+AI system benefits and positive impacts. These practices can increase the likelihood that
+risksarisinginsocialcontextsaremanagedappropriately.
+Understanding and treatment of trustworthiness characteristics depends on an AI actor’s
+particularrolewithintheAIlifecycle. ForanygivenAIsystem,anAIdesignerordeveloper
+mayhaveadifferentperceptionofthecharacteristicsthanthedeployer.
+Trustworthiness characteristics explained in this document influence each other.
+Highly secure but unfair systems, accurate but opaque and uninterpretable systems,
+and inaccurate but secure, privacy-enhanced, and transparent systems are all unde-
+sirable. Acomprehensiveapproachtoriskmanagementcallsforbalancingtradeoffs
+among the trustworthiness characteristics. It is the joint responsibility of all AI ac-
+tors to determine whether AI technology is an appropriate or necessary tool for a
+givencontextorpurpose,andhowtouseitresponsibly. Thedecisiontocommission
+or deploy an AI system should be based on a contextual assessment of trustworthi-
+ness characteristics and the relative risks, impacts, costs, and benefits, and informed
+byabroadsetofinterestedparties.
+3.1 ValidandReliable
+Validation is the “confirmation, through the provision of objective evidence, that the re-
+quirements for a specific intended use or application have been fulfilled” (Source: ISO
+9000:2015). Deployment of AI systems which are inaccurate, unreliable, or poorly gener-
+alizedtodataandsettingsbeyondtheirtrainingcreatesandincreasesnegativeAIrisksand
+reducestrustworthiness.
+Reliabilityisdefinedinthesamestandardasthe“abilityofanitemtoperformasrequired,
+without failure, for a given time interval, under given conditions” (Source: ISO/IEC TS
+5723:2022). Reliability is a goal for overall correctness of AI system operation under the
+conditions of expected use and over a given period of time, including the entire lifetime of
+thesystem.
+Page13

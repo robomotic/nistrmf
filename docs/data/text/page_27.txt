@@ -1,0 +1,42 @@
+NISTAI100-1 AIRMF1.0
+GOVERN is a cross-cutting function that is infused throughout AI risk management and
+enablestheotherfunctionsoftheprocess. Aspectsof GOVERN,especiallythoserelatedto
+compliance or evaluation, should be integrated into each of the other functions. Attention
+to governance is a continual and intrinsic requirement for effective AI risk management
+overanAIsystem’slifespanandtheorganization’shierarchy.
+Strong governance can drive and enhance internal practices and norms to facilitate orga-
+nizational risk culture. Governing authorities can determine the overarching policies that
+direct an organization’s mission, goals, values, culture, and risk tolerance. Senior leader-
+ship sets the tone for risk management within an organization, and with it, organizational
+culture. Management aligns the technical aspects of AI risk management to policies and
+operations. Documentation can enhance transparency, improve human review processes,
+andbolsteraccountabilityinAIsystemteams.
+After putting in place the structures, systems, processes, and teams described in the GOV-
+ERN function, organizations should benefit from a purpose-driven culture focused on risk
+understanding and management. It is incumbent on Framework users to continue to ex-
+ecute the GOVERN function as knowledge, cultures, and needs or expectations from AI
+actorsevolveovertime.
+PracticesrelatedtogoverningAIrisksaredescribedintheNISTAIRMFPlaybook. Table
+1liststhe GOVERN function’scategoriesandsubcategories.
+Table1: Categoriesandsubcategoriesforthe GOVERN function.
+Categories Subcategories
+GOVERN 1: GOVERN 1.1: Legal and regulatory requirements involving AI
+Policies,processes, areunderstood,managed,anddocumented.
+procedures,and
+GOVERN 1.2: The characteristics of trustworthy AI are inte-
+practicesacrossthe
+grated into organizational policies, processes, procedures, and
+organizationrelated
+practices.
+tothemapping,
+GOVERN 1.3: Processes, procedures, and practices are in place
+measuring,and
+todeterminetheneededlevelofriskmanagementactivitiesbased
+managingofAI
+ontheorganization’srisktolerance.
+risksareinplace,
+transparent,and GOVERN1.4: Theriskmanagementprocessanditsoutcomesare
+implemented established through transparent policies, procedures, and other
+effectively. controlsbasedonorganizationalriskpriorities.
+Continuedonnextpage
+Page22

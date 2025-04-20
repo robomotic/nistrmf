@@ -1,0 +1,38 @@
+NISTAI100-1 AIRMF1.0
+Table2: Categoriesandsubcategoriesforthe MAP function. (Continued)
+Categories Subcategories
+MAP 5.2: Practices and personnel for supporting regular en-
+gagementwithrelevantAIactorsandintegratingfeedbackabout
+positive, negative, and unanticipated impacts are in place and
+documented.
+5.3 Measure
+The MEASURE function employs quantitative, qualitative, or mixed-method tools, tech-
+niques, and methodologies to analyze, assess, benchmark, and monitor AI risk and related
+impacts. ItusesknowledgerelevanttoAIrisksidentifiedinthe MAP functionandinforms
+the MANAGE function. AI systems should be tested before their deployment and regu-
+larly while in operation. AI risk measurements include documenting aspects of systems’
+functionalityandtrustworthiness.
+MeasuringAIrisksincludestrackingmetricsfortrustworthycharacteristics,socialimpact,
+and human-AI configurations. Processes developed or adopted in the MEASURE function
+should include rigorous software testing and performance assessment methodologies with
+associated measures of uncertainty, comparisons to performance benchmarks, and formal-
+izedreportinganddocumentationofresults. Processesforindependentreviewcanimprove
+the effectiveness of testing and can mitigate internal biases and potential conflicts of inter-
+est.
+Wheretradeoffsamongthetrustworthycharacteristicsarise,measurementprovidesatrace-
+able basis to inform management decisions. Options may include recalibration, impact
+mitigation,orremovalofthesystemfromdesign,development,production,oruse,aswell
+asarangeofcompensating,detective,deterrent,directive,andrecoverycontrols.
+AftercompletingtheMEASUREfunction,objective,repeatable,orscalabletest,evaluation,
+verification,andvalidation(TEVV)processesincludingmetrics,methods,andmethodolo-
+gies are in place, followed, and documented. Metrics and measurement methodologies
+shouldadheretoscientific,legal,andethicalnormsandbecarriedoutinanopenandtrans-
+parent process. New types of measurement, qualitative and quantitative, may need to be
+developed. The degree to which each measurement type provides unique and meaningful
+information to the assessment of AI risks should be considered. Framework users will en-
+hancetheircapacitytocomprehensivelyevaluatesystemtrustworthiness,identifyandtrack
+existingandemergentrisks,andverifyefficacyofthemetrics. Measurementoutcomeswill
+be utilized in the MANAGE function to assist risk monitoring and response efforts. It is in-
+cumbent on Framework users to continue applying the MEASURE function to AI systems
+asknowledge,methodologies,risks,andimpactsevolveovertime.
+Page28

@@ -1,0 +1,29 @@
+NISTAI100-1 AIRMF1.0
+4. Presenting AI system information to humans is complex. Humans perceive and
+derivemeaningfromAIsystemoutputandexplanationsindifferentways,reflecting
+differentindividualpreferences,traits,andskills.
+The GOVERN function provides organizations with the opportunity to clarify and define
+the roles and responsibilities for the humans in the Human-AI team configurations and
+those who are overseeing the AI system performance. The GOVERN function also creates
+mechanisms for organizations to make their decision-making processes more explicit, to
+helpcountersystemicbiases.
+The MAP function suggests opportunities to define and document processes for operator
+andpractitionerproficiencywithAIsystemperformanceandtrustworthinessconcepts,and
+to define relevant technical standards and certifications. Implementing MAP function cat-
+egories and subcategories may help organizations improve their internal competency for
+analyzingcontext,identifyingproceduralandsystemlimitations,exploringandexamining
+impacts of AI-based systems in the real world, and evaluating decision-making processes
+throughouttheAIlifecycle.
+The GOVERN and MAP functionsdescribetheimportanceofinterdisciplinarityanddemo-
+graphicallydiverseteamsandutilizingfeedbackfrompotentiallyimpactedindividualsand
+communities. AI actors called out in the AI RMF who perform human factors tasks and
+activities can assist technical teams by anchoring in design and development practices to
+userintentionsandrepresentativesofthebroaderAIcommunity,andsocietalvalues. These
+actors further help to incorporate context-specific norms and values in system design and
+evaluateenduserexperiences–inconjunctionwithAIsystems.
+AI risk management approaches for human-AI configurations will be augmented by on-
+going research and evaluation. For example, the degree to which humans are empowered
+andincentivizedtochallengeAIsystemoutputrequiresfurtherstudies. Dataaboutthefre-
+quency and rationale with which humans overrule AI system output in deployed systems
+maybeusefultocollectandanalyze.
+Page41
